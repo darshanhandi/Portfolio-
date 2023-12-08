@@ -3,11 +3,11 @@
 export const data = [
   {
     id: 1,
-    img: 'https://i.postimg.cc/VkRWdHWx/57214s81.jpg',
+    img: 'https://i.postimg.cc/5t33FHYL/newspng.png',
     title: "Multimedia Web",
     desc: "",
-    link: "",
-    git: "",
+    link: "https://news244.netlify.app/",
+    git: "https://github.com/darshanhandi/news_app.git",
   },
   {
     id: 2,
