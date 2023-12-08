@@ -11,10 +11,10 @@ export const data = [
   },
   {
     id: 2,
-    img: 'https://i.postimg.cc/Bv75CLyN/4167022.jpg',
-    title: "Tarvel Agency",
-    link: "",
-    git: "",
+    img: 'https://i.postimg.cc/wvxHLTHn/Screenshot-2023-12-08-221926.png',
+    title: "Ping-Pong Ball",
+    link: "https://pingpongballgame.netlify.app/",
+    git: "https://github.com/darshanhandi/ping-pong.git",
   },
   {
     id: 3,
