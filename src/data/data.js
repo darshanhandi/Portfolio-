@@ -4,7 +4,7 @@ export const data = [
   {
     id: 1,
     img: 'https://i.postimg.cc/5t33FHYL/newspng.png',
-    title: "Multimedia Web",
+    title: "News 24*7",
     desc: "",
     link: "https://news244.netlify.app/",
     git: "https://github.com/darshanhandi/news_app.git",
