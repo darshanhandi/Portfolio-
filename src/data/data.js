@@ -11,7 +11,7 @@ export const data = [
   },
   {
     id: 2,
-    img: 'https://i.postimg.cc/wvxHLTHn/Screenshot-2023-12-08-221926.png',
+    img: 'https://i.postimg.cc/qqHjFQMK/Screenshot-2023-12-08-221926.png',
     title: "Ping-Pong Ball",
     link: "https://pingpongballgame.netlify.app/",
     git: "https://github.com/darshanhandi/ping-pong.git",
